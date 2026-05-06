@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>CyberAttrib.AI — Analyst Dashboard</title>
+<meta name="description" content="CyberAttrib.AI Live Dashboard"/>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="assets/css/styles.css"/>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body class="dashboard-layout">
+
+<!-- AMBIENT BACKGROUND -->
+<div id="ambient">
+  <div class="blob blob1"></div>
+  <div class="blob blob2"></div>
+</div>
+
+<!-- SIDEBAR -->
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <div class="logo">
+      <span class="logo-dot"></span> CyberAttrib.AI
+    </div>
+    <div class="status-indicator">
+      <span class="pulse-dot"></span> LIVE SYSTEM
+    </div>
+  </div>
+  
+  <nav class="sidebar-nav">
+    <button class="nav-item active" data-view="view-dashboard">
+      <span class="nav-icon">📊</span> Live Dashboard
+    </button>
+    <button class="nav-item" data-view="view-simulator">
+      <span class="nav-icon">🔬</span> Simulator
+    </button>
+    <button class="nav-item" data-view="view-models">
+      <span class="nav-icon">🧠</span> AI Models
+    </button>
+    <button class="nav-item" data-view="view-pipeline">
+      <span class="nav-icon">⚡</span> Pipeline
+    </button>
+  </nav>
+
+  <div class="sidebar-footer">
+    <div class="stack-chip">v1.1.0 MVP</div>
+    <div class="stack-chip">FastAPI connected</div>
+  </div>
+</aside>
+
+<!-- MAIN CONTENT -->
+<main class="main-content">
+  
+  <!-- ════════ VIEW: DASHBOARD ════════ -->
+  <section id="view-dashboard" class="view active">
+    <header class="view-header">
+      <h1 class="view-title">Threat Intelligence Dashboard</h1>
+      <p class="view-desc">Real-time CTI ingestion and active model inference via WebSocket streaming.</p>
+    </header>
+
+    <div class="dash-grid">
+      <div class="dash-card">
+        <div class="dash-card-icon">📡</div>
+        <div class="dash-card-title">Live API Feed</div>
+        <div class="dash-card-value text-green">Active</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-icon">🧠</div>
+        <div class="dash-card-title">Inference Engine</div>
+        <div class="dash-card-value">RandomForest</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-icon">⚡</div>
+        <div class="dash-card-title">Events Analyzed</div>
+        <div class="dash-card-value" id="events-count">0</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-icon">🎯</div>
+        <div class="dash-card-title">Average Confidence</div>
+        <div class="dash-card-value" id="avg-confidence">0%</div>
+      </div>
+    </div>
+
+    <!-- LIVE FEED -->
+    <div class="live-feed-container mt-3">
+      <div class="feed-header">
+        <h2 style="font-size:1.2rem;">Live Threat Feed</h2>
+        <span class="feed-status"><span class="pulse-dot"></span> Listening...</span>
+      </div>
+      <div class="feed-list" id="live-feed-list">
+        <!-- WebSocket pushes items here -->
+        <div class="feed-placeholder text-dim">Waiting for live intelligence data...</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════ VIEW: SIMULATOR ════════ -->
+  <section id="view-simulator" class="view">
+    <header class="view-header">
+      <h1 class="view-title">Attribution Simulator</h1>
+      <p class="view-desc">Manually test specific APT attack scenarios against the backend API.</p>
+    </header>
+
+    <div class="sim-wrap">
+      <div class="sim-header">
+        <span class="sim-title">// Manual Simulation Mode</span>
+        <span class="sim-status" id="sim-status">IDLE — Select a scenario</span>
+      </div>
+      <div class="sim-body">
+        <div class="sim-input">
+          <span class="sim-label">Select Attack Scenario</span>
+          <div class="scenario-btns" id="scenario-btns">
+            <!-- filled by JS -->
+          </div>
+          <button class="btn btn-primary mt-2 w-full" id="run-btn" onclick="runAttribution()" disabled>
+            ▶ Run Attribution
+          </button>
+          <button class="btn btn-ghost mt-1 w-full" onclick="exportReport()">
+            ⬇ Export Report (JSON)
+          </button>
+        </div>
+        <div class="sim-output" id="sim-output">
+          <div class="result-placeholder">
+            <div class="result-icon">🔍</div>
+            <div class="result-hint">AWAITING INPUT</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════ VIEW: MODELS ════════ -->
+  <section id="view-models" class="view">
+    <header class="view-header">
+      <h1 class="view-title">Model Explorer</h1>
+      <p class="view-desc">Browse AI models and compare performance metrics.</p>
+    </header>
+
+    <div class="model-explorer" id="model-explorer">
+      <div class="model-sidebar" id="model-tabs">
+        <!-- filled by JS -->
+      </div>
+      <div class="model-detail" id="model-detail">
+        <!-- filled by JS -->
+      </div>
+    </div>
+
+    <div class="mt-3 p-2 bg-panel border-panel">
+      <h3 style="font-size:1.1rem;margin-bottom:1rem;">Performance Comparison</h3>
+      <div style="position:relative;height:300px;">
+        <canvas id="comparison-chart"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════ VIEW: PIPELINE ════════ -->
+  <section id="view-pipeline" class="view">
+    <header class="view-header">
+      <h1 class="view-title">Processing Pipeline</h1>
+      <p class="view-desc">End-to-end transformation of raw data into actionable attribution.</p>
+    </header>
+
+    <div class="pipeline-wrap" id="pipeline-widget">
+      <div class="pipeline-steps">
+        <div class="pipe-step active" data-step="0" onclick="selectStep(0)">
+          <div class="pipe-num">01</div>
+          <div class="pipe-name">Data Input</div>
+          <div class="pipe-desc">Collect attack datasets</div>
+        </div>
+        <div class="pipe-step" data-step="1" onclick="selectStep(1)">
+          <div class="pipe-num">02</div>
+          <div class="pipe-name">Preprocessing</div>
+          <div class="pipe-desc">Clean &amp; normalize</div>
+        </div>
+        <div class="pipe-step" data-step="2" onclick="selectStep(2)">
+          <div class="pipe-num">03</div>
+          <div class="pipe-name">Feature Extraction</div>
+          <div class="pipe-desc">Network, malware, behavioral</div>
+        </div>
+        <div class="pipe-step" data-step="3" onclick="selectStep(3)">
+          <div class="pipe-num">04</div>
+          <div class="pipe-name">AI Model Layer</div>
+          <div class="pipe-desc">ML &amp; DL classification</div>
+        </div>
+        <div class="pipe-step" data-step="4" onclick="selectStep(4)">
+          <div class="pipe-num">05</div>
+          <div class="pipe-name">Attribution Engine</div>
+          <div class="pipe-desc">Predict threat actor</div>
+        </div>
+        <div class="pipe-step" data-step="5" onclick="selectStep(5)">
+          <div class="pipe-num">06</div>
+          <div class="pipe-name">Evaluation</div>
+          <div class="pipe-desc">Performance metrics</div>
+        </div>
+      </div>
+      <div class="pipeline-detail" id="pipeline-detail">
+        <!-- filled by JS -->
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>
