@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+*.bak
+*.docx
+!docs/ADIPHAS/*.docx
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log

@@ -1,0 +1,2102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="65C31DF9" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0961C881" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0755B7B0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E747E9A" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1F3864"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>ADIPHAS: AUTONOMOUS DISEASE INTELLIGENCE</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5629C577" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1F3864"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>AND PUBLIC HEALTH ADVISORY SYSTEM</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1B89593F" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F3198C1" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>A Final Year Project Report</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2CBE2045" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>Submitted in Partial Fulfilment of the Requirements for the Award of</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="14E8D029" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>Bachelor of Science Degree in Computer Science</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4286673F" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3933B820" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="102B6E1B" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1F3864"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>Department of Computer Science</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6D2BCA69" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44011EB9" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+        <w:t>2025/2026 Academic Session</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A046D5B" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16E42735" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="both"/>
+      <w:spacing w:line="360" w:lineRule="auto"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>ABSTRACT</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49C0EC80" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Emerging and re-emerging disease outbreaks continue to pose severe public health risks in densely populated urban centres such as Lagos State, Nigeria. The latency between the onset of an outbreak, its detection, and the dissemination of actionable intelligence to citizens and public health professionals remains a critical bottleneck in existing surveillance frameworks. This project presents the Autonomous Disease Intelligence and Public Health Advisory System (ADIPHAS), a multi-layered, autonomous health intelligence platform designed to address this gap.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="093DD8F3" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve">ADIPHAS continuously harvests signals from over 20 authoritative digital sources, applies a hybrid Natural Language Processing (NLP) pipeline to extract geospatial and epidemiological entities, fuses multi-source signals using a mathematically grounded confidence model, and delivers role-specific actionable intelligence to three classes of users, Citizens, Experts, and Administrators, through a real-time, web-based dashboard. The system integrates a High-Availability Hybrid-RAG architecture powered by Google Gemini 2.5 Flash and the Titan Vector Engine, a pure-Python vector intelligence stability layer, to augment advisory responses with contextual knowledge drawn from verified alert records, with a Tavily Search API fallback for real-time web context. All generative outputs are passed through a defensive three-layer Reasoning Trace Sanitization architecture to prevent internal Chain-of-Thought token leakage from advanced reasoning models. A resilient multi-provider geolocation pipeline, cascading Browser GPS through BigDataCloud reverse geocoding, IP-based fallback, and registered profile data, enables hyper-local advisory delivery anchored to the user's precise Local Government Area while preventing GPS coordinate drift. Structured data is persisted on Neon Cloud PostgreSQL with production-grade connection pooling, eliminating the concurrency bottlenecks of embedded databases under high pipeline loads. The system implements a three-tier Universal AI Resilience architecture, a Gemini chain with Exponential Backoff, a nine-model OpenRouter free tier, and a rule-based statistical fallback, guaranteeing uninterrupted intelligence generation even under complete API quota exhaustion. The platform is fully deployed at https://adiphas.streamlit.app on a split-cloud architecture comprising Render, Streamlit Community Cloud, and Neon PostgreSQL. Preliminary </w:t>
+      <w:lastRenderedPageBreak/><w:t>evaluations achieved a micro-averaged F1 score exceeding 0.875 on disease and location entity recognition, demonstrating research-grade accuracy in the target domain.</w:t></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="24B88BB7" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Keywords: Event-Based Surveillance, NLP, RAG, Knowledge Fusion, Public Health Informatics, FastAPI, Streamlit, LLM, spaCy, AI Resilience, Titan Vector Engine, StAMP, Geolocation, Sanitization, Folium, Render.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="56D4B01D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="38753110" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>CHAPTER ONE: INTRODUCTION</w:t>
+      </w:r>
+    </w:p>
+    <w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 1.1 Problem Statement</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Nigeria's Integrated Disease Surveillance and Response (IDSR) framework is largely passive, relying on health facility reports aggregated weekly. In a city like Lagos, outbreaks of cholera, Lassa fever, or mpox demonstrate that detection-to-response latency under traditional frameworks can exceed 14 days — a window within which epidemic spread becomes exponential. ADIPHAS addresses this "signal latency" by turning the open web into a real-time Early Warning System.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 1.2 Objectives</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>1.  **Autonomous Pipeline:** Harvest disease signals from 20+ authoritative sources using **Scrapling v0.4** with anti-bot bypass.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>2.  **Hybrid NLP &amp; Sanitization:** Implement a local-first **spaCy** pipeline for high-speed extraction, refined by **Gemini 2.5 Flash** for deep semantic analysis, guarded by a deep regex sanitization layer to prevent AI reasoning trace (`&lt;think&gt;`) leakage and protected by a chunked-execution parallel processing strategy to eliminate output truncation failures.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>3.  **Knowledge Fusion:** Reconcile conflicting multi-source signals using the **Dempster-Shafer Theory of Evidence**.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>4.  **Role-Specific &amp; Location-Aware Intelligence:** Deliver actionable insights grounded by a resilient multi-provider Geolocation pipeline (Browser GPS → BigDataCloud → IP Fallback → Profile) to dynamically generate personalized insights while preventing GPS drift.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>5.  **Proactive Intelligence Dispatch:** Automatically synthesize the health landscape into easily digestible (Citizen) or deep-dive (Expert) situational briefings every 2 hours, and dispatch them directly via email to verified users.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>6.  **Hybrid-RAG Advisory:** Ground AI responses in both local verified alerts (**Titan Vector Engine**) and global real-time context (**Tavily Search API**).</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>7.  **AI Resilience:** Implement a tiered model rotation pool (exponential backoff) to ensure 24/7 intelligence availability during API quota exhaustion.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>---</w:t></w:r></w:p><w:p w14:paraId="65F0E731" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="both"/>
+      <w:spacing w:line="360" w:lineRule="auto"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>CHAPTER TWO: LITERATURE REVIEW</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="65E2269A" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>This chapter situates ADIPHAS within the intellectual landscape of digital disease surveillance, event-based epidemiology, natural language processing, retrieval-augmented generation, and AI-resilient system design. It opens with the conceptual and theoretical frameworks structuring the study's design, provides a critical survey of related literature and existing systems, and identifies the specific research gap that ADIPHAS addresses.</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2FEFE00D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="2E4057"/>
+        </w:rPr>
+        <w:t>2.1 Conceptual Framework</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2073211A" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.1.1 Event-Based Surveillance and the Multi-Source Intelligence Paradigm</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="7BC995C5" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Event-Based Surveillance (EBS) is the organised and rapid capture of information about events that may represent a public health risk, from formal and informal sources (WHO, 2014). Unlike indicator-based surveillance, EBS detects unexpected events through the monitoring of news reports, social media, rumour networks, and expert communications. The Multi-Source Intelligence Paradigm extends this concept by treating health information as inherently distributed across heterogeneous channels (Freifeld et al., 2008). ADIPHAS operationalises this paradigm through a pipeline of more than 20 source-specific scraping agents, each assigned a source reliability weight participating in the downstream Dempster-Shafer fusion calculation.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7F8390A9" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The processing logic of ADIPHAS is structured by the DIKW (Data-Information-Knowledge-Wisdom) Hierarchy (Ackoff, 1989; Rowley, 2007). Raw web text constitutes Data. Structured NLP-extracted entities constitute Information. Validated, confidence-scored, spatially referenced disease alerts constitute Knowledge. Contextualised, actionable advisory outputs from the Hybrid-RAG pipeline and inference engine constitute Wisdom. Each processing stage corresponds to one DIKW transition, ensuring architectural coherence with a well-established conceptual model.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7551AB63" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.1.2 High-Availability Hybrid-RAG, Reasoning Trace Sanitization, and the Three-Tier AI Fallback Architecture</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5928E8E1" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve">Retrieval-Augmented Generation (RAG) is a hybrid AI architecture introduced by Lewis et al. (2020) that combines large language model generativity with structured information retrieval, anchoring outputs in verifiable evidence rather than parametric </w:t>
+      <w:lastRenderedPageBreak/><w:t>knowledge alone. This directly addresses the hallucination problem of LLMs, particularly consequential in health advisory contexts where inaccurate guidance can cause direct harm.</w:t></w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="117AD995" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>ADIPHAS implements this as a High-Availability Hybrid-RAG system, using the Titan Vector Engine as the primary knowledge store, indexing both verified EBS alerts and IDSR historical aggregates. Queries below the similarity threshold fall over to the Tavily Search API. Advisory synthesis is performed by Gemini 2.5 Flash under normal conditions, with outputs passing through the three-layer Reasoning Trace Sanitization framework before reaching users.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="30F9D470" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The Reasoning Trace Sanitization framework addresses a deployment safety concern introduced by advanced chain-of-thought models: the risk that raw internal deliberation tokens contaminate public-facing advisory outputs. Three stages are applied: at Generation, where outputs are intercepted immediately after inference; at Storage, where records are sanitized before database writes; and at Serving, where a final regular expression pass is applied before rendering. This ensures 100% public-ready output regardless of which model in the fallback chain is active.</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="7B57A613" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The three-tier Universal AI Fallback architecture addresses the operational vulnerability of cloud-dependent advisory systems to API service interruptions. Tier 1 deploys the Gemini chain with an Exponential Backoff Protocol that performs tactical pauses of 5, 10, and 15 seconds when the 15 RPM free-tier limit is hit, allowing quota regeneration without crashing. Tier 2 provides a nine-model OpenRouter free chain including Gemma 4 31B, Nemotron 3 120B, Qwen3 Coder 480B, and others, offering massive redundancy if Gemini hard-fails. Tier 3 generates statistical summaries from raw database aggregates when all AI paths are exhausted, ensuring the dashboard never displays blank intelligence panels regardless of upstream API availability.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6C8B1B7D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="2E4057"/>
+        </w:rPr>
+        <w:t>2.2 Theoretical Framework</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2FAA7C87" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.2.1 Syndromic Surveillance Theory and the Health Belief Model</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3A781319" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve">Syndromic surveillance focuses on monitoring pre-diagnostic signals of disease activity rather than waiting for laboratory-confirmed diagnoses (Henning, 2004; Smith et al., 2019). The aggregate pattern of corroborated signals across independent sources constitutes </w:t>
+      <w:lastRenderedPageBreak/><w:t>meaningful epidemiological intelligence capable of providing earlier warning than facility-based systems. ADIPHAS embeds this theory in its NLP extraction stage, which identifies urgency keywords alongside disease and location entities.</w:t></w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2B816792" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The personalised advisory layer is grounded in the Health Belief Model (HBM), developed by Rosenstock (1974) and extended by Champion and Skinner (2008). ADIPHAS addresses perceived susceptibility through its Bio-Aware Personalisation engine combined with the multi-provider geolocation pipeline: by automatically resolving the user's precise LGA through a cascade of GPS, BigDataCloud, IP fallback, and profile sources, the system makes epidemic risk both concrete and personally relevant without requiring any deliberate user action. The resilience of this delivery against GPS hardware limitations represents a meaningful advance over single-source geolocation approaches.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="1E6F1C71" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.2.2 Dempster-Shafer Evidence Theory and Multi-Agent Systems</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27A2CAB5" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The Dempster-Shafer mathematical theory of evidence (Shafer, 1976) provides the formal basis for ADIPHAS's knowledge fusion engine. Each unique source is treated as an independent mass function contributing a belief value that a reported disease event is real. The combined belief is computed as one minus the product of the complements of individual source reliability weights, with a spatial corroboration bonus of 0.95 applied when an LCDA-level alert is independently supported by a parent LGA report.</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="2B474950" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The architectural design draws on Multi-Agent Systems theory (Wooldridge, 2009). Five specialised agents, Scout, NLP, Fusion, Risk, and StAMP, operate on a two-hour APScheduler background cycle, each responsible for a discrete processing task, providing fault tolerance and extensibility. This connects ADIPHAS to the ReAct agentic AI paradigm (Yao et al., 2022), in which agents interleave natural language reasoning with concrete real-world actions.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="68D44772" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="2E4057"/>
+        </w:rPr>
+        <w:t>2.3 Review of Related Literature</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="32C5C1E6" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.3.1 Digital Disease Detection: From HealthMap to Modern NLP, RAG, and Production AI Systems</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="67AC5417" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve">The intellectual heritage of ADIPHAS begins with HealthMap (Brownstein et al., 2009), which demonstrated that automated web monitoring could identify outbreak events days </w:t>
+      <w:lastRenderedPageBreak/><w:t>before official confirmation. Google Flu Trends (Ginsberg et al., 2009) extended this to search query analysis, though Lazer et al. (2014) documented systematic overestimation driven by media-induced search behaviour, underscoring the importance of multi-source triangulation. Modern transformer-based NLP, particularly BERT (Devlin et al., 2019), substantially improved entity recognition accuracy, directly informing ADIPHAS's hybrid spaCy-Gemini 2.5 Flash pipeline.</w:t></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5922F7C1" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The RAG architecture builds on Lewis et al. (2020). ADIPHAS extends this work in three ways: populating the knowledge base with its own verified alerts and IDSR historical aggregates; addressing LLM availability through a 12-model fallback chain including a rule-based statistical tier that operates without any LLM; and implementing the three-layer sanitization architecture, a concern the existing RAG literature has not addressed specifically for health advisory deployments. The Folium/Leaflet.js mapping approach, replacing WebGL-dependent Plotly Mapbox, addresses a practical browser compatibility constraint identified during production deployment that prior web-based surveillance literature has not documented.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2D879B8E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.3.2 Disease Surveillance in Nigeria: IDSR, DHIS2, and SORMAS</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46675467" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Nigeria's surveillance infrastructure is built around the IDSR framework, operationalised through DHIS2 and SORMAS. Research consistently identifies structural limitations: Olu et al. (2019) documented data completeness and timeliness failures; Mwanja et al. (2024) demonstrated official statistics may capture as little as 25-30% of true incidence; Peh et al. (2024) quantified the 14-day awareness lag. These findings establish both the scale of the gap ADIPHAS addresses and the rationale for a multi-source, event-based approach grounded in production deployment rather than prototype evaluation.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="051DC7A4" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="2E4057"/>
+        </w:rPr>
+        <w:t>2.4 Review of Related Systems</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="62809859" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.4.1 Global Platforms and Their Sub-National and Operational Limitations</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A6169E4" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve">HealthMap and ProMED are calibrated for national or supranational analysis and lack the LGA-level granularity operationally meaningful for Lagos State. Neither system has been deployed on free-tier cloud infrastructure for public access, nor addresses the LLM availability, output sanitization, or geolocation pipeline challenges that emerge in production operation. Consumer health applications such as Apple Health (Lin et al., 2025) provide personal </w:t>
+      <w:lastRenderedPageBreak/><w:t>monitoring without population-level surveillance or contextual advisory functionality. Nigeria's official DHIS2 and SORMAS infrastructure provides authoritative aggregate data but is constrained by reporting lags and is not designed for direct citizen engagement or zero-downtime AI advisory generation.</w:t></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="06284EB0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="3A3A3A"/>
+        </w:rPr>
+        <w:t>2.4.2 Research Gap: The Integration, Resilience, and Deployment Deficit</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="535F56FB" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The review reveals three compounding gaps. The Integration Gap, identified by Lin et al. (2025), reflects the absence of any system unifying autonomous EBS acquisition, hybrid NLP, Dempster-Shafer fusion, RAG-grounded advisory, and a role-differentiated interface for a specific Nigerian state. The Resilience Deficit reflects the absence of a three-tier AI fallback mechanism maintaining advisory continuity under complete API quota exhaustion with a rule-based final tier. The Deployment Deficit reflects the absence of any comparable Nigerian public health surveillance system operating in production on zero-capital free-tier infrastructure accessible to the public. ADIPHAS addresses all three deficits.</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0B98B8FF" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      <w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="2E4057"/>
+        </w:rPr>
+        <w:t>2.5 Summary of Findings from the Literature</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7CFDD1FE" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The table below summarises the key works reviewed in this chapter and their direct relevance to the ADIPHAS project:</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="306E08CB" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="08540F9E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>S/N</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1BE7D8E6" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Author(s)</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="2878A162" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Date</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="36D3FE6D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Focus</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="7DD45C8F" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Key Finding</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="56EFC64B" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Relevance to ADIPHAS</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="0B70C337" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>1</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="7FFDC468" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Brownstein et al.</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4564C929" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2009</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4685FBA4" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>HealthMap: digital disease detection</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1D13A2F0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Web signals can precede official outbreak detection by days</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="155E9B4B" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Foundational proof of concept for EBS acquisition layer</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="48E32355" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4CCF4028" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Lewis et al.</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="45DD14EC" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2020</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4D788C22" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Retrieval-Augmented Generation</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="24A4CB7F" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Grounding LLM outputs in retrieved documents reduces hallucination</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="611F8420" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Basis for ADIPHAS Hybrid-RAG engine and Titan Vector Engine</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="16234343" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>3</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="61D8126B" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>WHO</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="39476BBD" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2014</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="03FCF579" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Early Detection and Event-Based Surveillance</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1A61E532" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>EBS complements indicator-based surveillance with early informal signals</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="38A27885" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Core conceptual framework for ADIPHAS signal acquisition</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="44D3DBB7" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>4</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="0EA0C404" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Devlin et al.</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="488C7A56" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2019</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="503E0783" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>BERT: bidirectional transformers for NLP</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="76B3175C" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Transformer models achieve state-of-the-art NER accuracy</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4F941E68" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Informs hybrid spaCy-Gemini 2.5 Flash NLP pipeline design</w:t>
+            </w:r>
+            
+            
+            
+            
+          </w:p>
+        <w:p w14:paraId="62BB1992" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>5</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="3ED0F1E6" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Shafer</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="70DCD014" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>1976</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="62279310" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Dempster-Shafer theory of evidence</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="2341BA23" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Mathematical framework for fusing uncertain multi-source evidence</w:t>
+            </w:r>
+            
+          </w:p>
+        <w:p w14:paraId="2B8E84B7" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Core algorithm for ADIPHAS knowledge fusion engine</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="59CE6994" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:lastRenderedPageBreak/>
+              <w:t>6</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="5EB549FA" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Yao et al.</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="6BE3D548" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2022</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1E7A26B7" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>ReAct: agentic AI reasoning and action</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        <w:p w14:paraId="4F2C0230" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Agents interleaving reasoning with web actions improve performance</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="665CBEC1" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Theoretical basis for ADIPHAS five-agent architecture and StAMP</w:t>
+            </w:r>
+            
+            
+            
+          </w:p>
+        <w:p w14:paraId="4B5BE022" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>7</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1EB24C59" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Lazer et al.</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        <w:p w14:paraId="3927BD90" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2014</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="449FFEE0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Critique of Google Flu Trends</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4901AEBE" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Single-source surveillance prone to media-driven confounding</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="609980EB" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Justifies multi-source triangulation and DS fusion in ADIPHAS</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4D2752FC" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>8</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="78A75A7F" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Olu et al.</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4747A8E1" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2019</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="2326AB90" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>IDSR and digital surveillance in Nigeria</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1D907567" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Data completeness and timeliness failures in DHIS2/SORMAS</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="49F4ABD6" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Establishes quantified surveillance gap ADIPHAS addresses</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="6DEC2515" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>9</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="17578C92" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Mwanja et al.</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        <w:p w14:paraId="14B86CEC" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2024</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="02374FD6" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Underreporting in resource-limited settings</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1EFE7DC4" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Official systems capture as little as 25-30% of true incidence</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="242B8473" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Justifies event-based multi-source approach</w:t>
+            </w:r>
+            
+          </w:p>
+        <w:p w14:paraId="6CBAFBFE" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>10</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="5C623A28" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Milinovich et al.</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        <w:p w14:paraId="3F5DE62D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2015</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="1054176E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Internet-based surveillance system evaluation</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="05138A97" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Global platforms lack sub-national granularity</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="59B87C19" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Justifies LGA-level granularity design of ADIPHAS</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="149F1032" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>11</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="353D12E0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Smith et al.</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="0309E482" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2019</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="2D900D7E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Value of syndromic surveillance</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="0A627272" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Pre-diagnostic signals provide meaningful early warning</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="7DCD3775" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Underpins urgency keyword extraction in NLP pipeline</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4D67114B" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>12</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="060F564C" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Rosenstock</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="156E523E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>1974</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4455C394" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Health Belief Model</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="293CE14E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Perceived susceptibility is primary driver of protective behaviour</w:t>
+            </w:r>
+            
+            
+            
+          </w:p>
+        <w:p w14:paraId="1F9C2D54" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Grounds Bio-Aware Personalisation and geolocation pipeline design</w:t>
+            </w:r>
+            
+            
+            
+            
+          </w:p>
+        <w:p w14:paraId="66C2F3ED" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>13</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="6014B186" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Shoewu et al.</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        <w:p w14:paraId="14EB4723" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>2021</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="2114BAF2" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Electronic health records in Nigeria</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="3354965A" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Practical e-health implementation challenges documented</w:t>
+            </w:r>
+          </w:p>
+        <w:p w14:paraId="4F18DCA0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+            <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+              <w:rPr>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr>
+              <w:t>Informs database and interface design for Nigerian context</w:t>
+            </w:r>
+            
+          </w:p>
+        <w:p w14:paraId="0A283DA3" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="40" w:after="40" w:line="360" w:lineRule="auto"/>
+      <w:jc w:val="both"/></w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44D1402D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLine="720"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The overriding finding from this review is a compounded Integration, Resilience, and Deployment Deficit: no existing system unifies autonomous EBS acquisition, hybrid NLP with defensive sanitization, Dempster-Shafer fusion, RAG-grounded advisory, a three-tier AI fallback with rule-based final tier, multi-provider geolocation, and a role-differentiated interface deployed in production for public access in a specific Nigerian state. ADIPHAS is designed and deployed to address all three dimensions of this deficit.</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="2A97CD66" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr><w:r>
+        <w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1CAF8DBC" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>CHAPTER THREE: SYSTEM ANALYSIS AND DESIGN / METHODOLOGY</w:t>
+      </w:r>
+    </w:p>
+    <w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 2.1 High-Level Design</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>ADIPHAS utilizes a four-layer architecture:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>1.  **Presentation Layer:** Streamlit-based micro-frontend completely modularized via `@st.fragment`. This enforces lazy-loading of heavy algorithmic components (Folium mapping, Mathematical Fusion) preventing UI lock-ups and guaranteeing instant page-shell renders.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>2.  **Application Layer:** FastAPI backend managing JWT authentication, Resilient AI Failover, data sanitization, and Hybrid-RAG retrieval.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>3.  **Intelligence Agent Layer:** Multithreaded fleet (Scout, NLP, Fusion, StAMP Briefing Agent) running continuously on a **2-hour APScheduler** background cycle, optimized to maximize intelligence coverage within free-tier API rate limits using a 15-article chunked micro-batching architecture.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>4.  **Persistence Layer:** Hosted physically on **Neon Cloud PostgreSQL**, offering robust connection pooling (`pool_size=10`, `max_overflow=20`, `pool_pre_ping=True`) to efficiently handle massive parallel read/writes from the multithreaded AI extractors, entirely eliminating the concurrency locks associated with embedded SQLite.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 2.2 Local-First AI Strategy</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>To ensure cost-efficiency and performance, ADIPHAS implements a tiered AI strategy:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Routine Extraction:** Delegated to local spaCy models and rule-based keyword matchers.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Deep Refinement:** Reserved for batch processing of news high-priority signals.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Generative Synthesis:** Reserved for executive briefings and RAG-grounded advisory queries.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>---</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 3.1 Entity Extraction Pipeline</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Extraction follows three stages:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>1.  **Stage 1 - NER (Local):** spaCy `en_core_web_sm` identifies GPE/LOC entities, cross-referenced against a 20-LGA/37-LCDA Lagos gazetteer.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>2.  **Stage 2 - Rule-Based Matching:** Identifies 13+ epidemic-priority diseases and urgency keywords (e.g., *fatalities*, *crisis*).</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>3.  **Stage 3 - Gemini Batch Analysis:** Refines extraction and generates a 1-sentence technical "intelligence summary" and situational advisory.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 3.2 Knowledge Fusion (Dempster-Shafer)</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Reconciles signals across sources by treating each unique source $i$ as an independent mass function:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Belief $m(Real)$:** $1 - \prod_{i=1}^{n} (1 - W_i)$, where $W_i$ is the source reliability weight.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Spatial Verification:** Alerts from LCDAs receive a confidence boost ($0.95$) if corroborated by a report from its parent LGA.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 3.3 Personalised Risk Scoring</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Risk is computed as a weighted sum of self-reported symptoms, NLP-derived severity ($S_{nlp}$), and environmental risk ($E_{env}$):</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>$$R_{final} = \min\left(R_{base} + (S_{nlp} \times 0.3) + \frac{E_{env}}{100}, \ 1.0\right)$$</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Environmental Penalty ($E_{env}$):** Computed based on alert frequency and proximity to the user's LGA, capped at $60.0$.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Biological Modifiers:** SS/SC genotypes receive alerts for Malaria complications; Blood Group O receives priority warnings for Cholera.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 3.4 Epidemiological Forecasting</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>ADIPHAS predicts 4-week case trends using a **Weighted Moving Average (WMA)**:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>$$\hat{y}_{t+1} = \frac{\sum_{i=1}^{n} w_i \cdot y_{t-i+1}}{\sum_{i=1}^{n} w_i} + (Trend \times i \times 0.5)$$</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>Where $w_i \in \{0.2, 0.3, 0.5\}$ favor recent data. Model accuracy is audited using **MAE** and **RMSE** from internal backtesting.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>---</w:t></w:r></w:p><w:p w14:paraId="0014EC77" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7F9DA5E4" wp14:editId="5DF227A5">
+            <wp:extent cx="5943600" cy="4123944"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="201" name="Image201"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="201" name="Image201"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId7"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="4123944"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0D5B755C" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="2DE7BCAF" wp14:editId="2E3E53F3">
+            <wp:extent cx="5943600" cy="2734056"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="207" name="Image207"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="207" name="Image207"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId8"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="2734056"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4DBF2EB0" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="28276AF8" wp14:editId="0B3F6FD5">
+            <wp:extent cx="3657600" cy="4032504"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="208" name="Image208"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="208" name="Image208"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId9"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="3657600" cy="4032504"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61FED721" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="1BB1F9A6" wp14:editId="15C322C9">
+            <wp:extent cx="5943600" cy="4123944"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="202" name="Image202"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="202" name="Image202"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId10"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="4123944"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1809717A" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7A1A2573" wp14:editId="581BA1F7">
+            <wp:extent cx="5943600" cy="3419856"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="203" name="Image203"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="203" name="Image203"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId11"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="3419856"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="381A6E09" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="37215DDE" wp14:editId="161ADF06">
+            <wp:extent cx="5943600" cy="4251960"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="204" name="Image204"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="204" name="Image204"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId12"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="4251960"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2E5FD639" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="1FEAA6B3" wp14:editId="0809D961">
+            <wp:extent cx="5943600" cy="3584448"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="205" name="Image205"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="205" name="Image205"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId13"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="3584448"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1596963E" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="_Hlk227133185"/>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>CHAPTER FOUR: SYSTEM IMPLEMENTATION AND TESTING</w:t>
+      </w:r>
+    </w:p>
+    <w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.1 Production Deployment Architecture</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>ADIPHAS is deployed on a **split-cloud architecture** designed for cost-efficiency and reliability:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Backend (FastAPI):** Hosted on **Render** as a Native Python 3.11 Web Service, running `uvicorn backend.main:app` with automatic builds from the GitHub `master` branch.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Frontend (Streamlit):** Hosted on **Streamlit Community Cloud**, reading the backend URL from `st.secrets` to route all API calls to the Render instance.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Database:** Hosted on **Neon PostgreSQL** (serverless), connected via `DATABASE_URL` with `psycopg2-binary` and SQLAlchemy connection pooling.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Keep-Alive:** A cron job (via [cron-job.org](https://cron-job.org)) pings the `/healthcheck` endpoint every 14 minutes to prevent Render free-tier spin-down.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.2 Authentication &amp; Security</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The authentication system implements several hardened security measures:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Log Sanitization:** Implemented aggressive warning suppression in the main application entry point to silence third-party deprecation logs (e.g., from `streamlit-js-eval`), ensuring that production terminal logs remain clean and focused on critical system events.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Email Verification Engine:** Prevents unauthorized or spam accounts by requiring users to validate their identity through a secure, cryptographic token sent to their inbox before they can receive automated health briefings.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Secure Password Recovery:** Integrated a robust "Forgot Password" architecture, allowing users to securely reset their credentials using email-delivered reset tokens.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Password Hashing:** Uses **native `bcrypt`** (not `passlib`) to avoid the known 72-byte wrap detection bug. Passwords are hashed via `bcrypt.hashpw()` with auto-generated salts.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **JWT Tokens:** Signed using `HS256` with a cryptographically random `SECRET_KEY` (environment variable). Tokens expire after 60 minutes.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Rate Limiting:** Registration endpoint is protected with `slowapi` at 5 requests/minute to prevent brute-force account creation.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Role-Based Access Control (RBAC):** Three-tier role hierarchy (`CITIZEN &lt; EXPERT &lt; ADMIN`) enforced at the router level via dependency injection.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Deep-Link Navigation Routing:** Automated deep-linking forces all inbound redirects (from email verification, login loops, or password resets) directly to the unified Command Centre dashboard using Streamlit URL query parameter routing, resolving previously disruptive login-state reloads.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.3 Real-Time Metrics &amp; Caching</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The system features a **5-second TTL (Time-To-Live)** cache for high-frequency dashboard metrics. It calculates cumulative daily totals for scraped articles and new signals, preventing database lockups during concurrent role access.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.4 Hybrid-RAG and Strategic Intelligence</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The RAG pipeline utilizes a dual-path retrieval strategy:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Local Path**: Verified EBS alerts and IDSR historical aggregates are indexed in the **Titan Vector Engine** for high-precision local context.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Global Path**: If local data is insufficient or a query involves emerging global trends, the system triggers the **Tavily Search API** for real-time web context.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **StAMP Synthesis &amp; Manual Bypass**: The **Situational Awareness &amp; Monitoring Protocol (StAMP)** generates a daily strategic briefing by fusing these paths. To aid immediate incident investigation, experts can utilize the explicit "Force Real-time StAMP Sweep" bypass, directly commanding the pipeline to run instantaneous fresh reconnaissance outside standard scheduling boundaries.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Reasoning Trace Sanitization**: All generative outputs are passed through a defensive 3-layer architecture (Generation, Storage, Serving) utilizing strict Regex algorithms to successfully strip any internal Chain-of-Thought (e.g., `&lt;think&gt;`) leakage produced by advanced reasoning models like DeepSeek.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.5 AI Model Resilience &amp; Universal Fallback</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>ADIPHAS implements a **three-tier AI resilience architecture** to guarantee 24/7 intelligence availability:</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>1.  **Tier 1 — Healed Gemini Chain:** Primary models (`gemini-2.0-flash` → `gemini-2.5-flash`) augmented with an **Exponential Backoff Protocol**. When the 15 RPM free-tier limit is hit, the system performs a tactical pause (5, 10, 15 seconds) to allow quota regeneration before proceeding, eliminating 429 crash loops.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>2.  **Tier 2 — OpenRouter Free Chain:** Nine verified free models including `Gemma 4 31B`, `Nemotron 3 120B`, `Qwen3 Coder 480B`, `GPT-OSS 120B`, `Hermes 405B`, and others, providing massive redundancy if Gemini hard-fails.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>3.  **Tier 3 — Rule-Based Fallback:** When all AI paths are exhausted, the system generates statistical summaries from raw database aggregates, ensuring the dashboard never displays blank intelligence panels.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The background scheduler interval is set to **120 minutes (2 hours)** to optimise intelligence coverage within the free-tier rate limits (~50 requests/day on OpenRouter).</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.6 Notification Infrastructure (Proactive Dispatch)</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>The system has transitioned from a passive dashboard to a proactive intelligence push-service.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Automated Intelligence Briefings:** The orchestration engine runs on a strict 2-hour cycle. Upon completing data harvesting and AI fusion, it automatically generates two distinct intelligence briefings: an accessible, community-focused update for Citizens, and a deeply technical, epidemiological briefing for Experts.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Multithreaded Delivery:** To prevent network latency from hanging the main server, a multithreaded dispatch utility was built to deliver these briefings. *Note: Due to Render's free-tier outbound port restrictions (Errno 101 on SMTP ports), ADIPHAS bypasses traditional SMTP and utilizes the **Brevo (formerly Sendinblue) HTTP API** to securely dispatch verified emails over port 443.*</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 4.7 Comprehensive Comparative Analysis with Existing Systems</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>To truly contextualize the architectural advancements of ADIPHAS, it must be evaluated across multiple technical and operational dimensions against the current state-of-the-art systems deployed in global and national public health: **SORMAS** (Nigeria's primary IDSR tool), **HealthMap** (Global web-scraper), and **ProMED-mail** (Expert-moderated network).</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| Capability Dimension | ADIPHAS (Our System) | SORMAS (NCDC Standard) | HealthMap (Global) | ProMED-mail |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| :--- | :--- | :--- | :--- | :--- |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Data Acquisition Model** | **Autonomous EBS:** Silently scrapes 20+ sources using TLS Impersonation (Scrapling). | **Passive Reporting:** Requires human clinicians to manually type IDSR forms. | **Automated Web Crawling:** Pulls from global news aggregators. | **Manual Submission:** Depends on experts voluntarily emailing reports. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Detection-to-Alert Latency** | **&lt; 2 Hours:** Strictly enforced by the APScheduler continuous cycle. | **7 - 14 Days:** Bottlenecked by weekly clinic aggregation cycles. | **24 - 48 Hours:** Requires batch processing and translation. | **48+ Hours:** Delayed by human editorial review. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Analytical &amp; AI Engine** | **Hybrid RAG &amp; Dempster-Shafer Fusion:** Fuses statistical truth with semantic AI extraction. | **Classical Statistics:** Standard database aggregation. | **Basic NLP:** Topic modeling and keyword mapping. | **Human Expertise:** Solely relies on human epidemiologists. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Resilience &amp; Fallbacks** | **25-Model Deep Fallback:** Seamlessly rotates through 25 LLMs upon rate-limits, with a final Rule-Based fallback. | **No AI Fallback:** System fails if human data-entry stops. | **No LLM Rotation:** Relies on a monolithic NLP pipeline. | **No AI:** Vulnerable to human moderation fatigue. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Geospatial Granularity** | **Hyper-Local (LGA/LCDA):** Native HTML5 GPS + BigDataCloud reverse geocoding with IP Fallback. | **State/Facility Level:** Tied to the static location of the reporting clinic. | **Regional/National Level:** Broad global mapping (Country/State). | **Regional Level:** Text-based geographical descriptions. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Proactive Notification Engine** | **Multithreaded HTTP API (Brevo):** Auto-dispatches HTML briefings securely over port 443, bypassing SMTP firewalls and sandbox recipient limits. | **Passive Dashboard:** Requires users to log in to view charts. | **Passive Dashboard:** Users must actively search the map. | **Text-Only Mailing List:** Sends raw, unformatted text emails. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **Role-Based Personalization** | **Dual-Tier Output:** Generates unique, simplified summaries for Citizens and complex metrics for Experts. | **Clinical Only:** Designed strictly for health administrators. | **One-Size-Fits-All:** Same map view for all users. | **Expert Only:** Highly academic and technical text. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>| **System Thresholds &amp; Limits** | **Batch Cap:** Chunked (15 per pass).&lt;br&gt;**Email Limit:** 300/day (Brevo API).&lt;br&gt;**NLP:** 2-hour pulse intervals. | **Scale Bound:** Limited by human typing speed and clinic connectivity. | **Scale Bound:** Millions of global articles, but lacks localized depth. | **Scale Bound:** Moderation queue creates severe backlog during pandemics. |</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>#### Architectural Superiority</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>1. **Zero-Touch Surveillance:** Unlike SORMAS, which actively burdens already overworked health professionals with data entry, ADIPHAS operates strictly in the background (zero-touch), freeing clinicians to focus on patient care while still providing superior signal latency.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>2. **Defeating the 'Cold Start' Problem:** ProMED and SORMAS suffer from human "cold starts" during weekends or holidays. ADIPHAS’s 2-hour autonomous scheduler guarantees 24/7/365 vigilance without fatigue.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>3. **Hyper-Personalization vs. Global Noise:** While HealthMap provides a great global overview, it is virtually useless for a citizen trying to determine if cholera is spreading in their specific local government area (e.g., *Yaba, Lagos*). ADIPHAS leverages browser-native GPS and mathematical environmental risk scoring to deliver hyper-tailored advice, filtered further by biological markers (Genotype/Blood Group).</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>4. **Resilience Engineering:** ADIPHAS anticipates failure. Render's strict SMTP firewall (Errno 101) was dynamically bypassed using the Brevo HTTP API. LLM quota exhaustion (`429 Too Many Requests`) is countered by a 25-model exponential backoff matrix. This ensures the system remains highly available under severe constraints where traditional systems would crash.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>---</w:t></w:r></w:p><w:p w14:paraId="7572B79F" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:spacing w:before="120" w:after="80"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7CE50220" wp14:editId="788F860D">
+            <wp:extent cx="5943600" cy="2560320"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="206" name="Image206"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="206" name="Image206"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId14"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5943600" cy="2560320"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1750876D" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>CHAPTER FIVE: SUMMARY, CONCLUSION, AND RECOMMENDATION</w:t>
+      </w:r>
+    </w:p>
+    <w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Production Deployment:** Successfully deployed a fully operational split-cloud architecture (Render + Streamlit Cloud + Neon PostgreSQL) accessible at `https://adiphas.streamlit.app`.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Concurrency &amp; Data Integrity:** Replaced legacy sequential SQLite operations with high-availability **Neon PostgreSQL**, successfully eliminating connection locks under high NLP pipeline loads. Implemented automatic primary key sequence repair tooling for SQLite-to-PostgreSQL migrations.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Accuracy &amp; Integrity:** Achieved $0.875$ micro-averaged F1 on representative health data, while implementing complete sanitization protocols ensuring 100% public-ready briefing output free of raw model reasoning tokens.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **AI Resilience:** Built a **25-model deep fallback chain** (2 Gemini native + 23 OpenRouter free models including Llama 3.3 70B, Hermes 405B, and Nemotron 120B + 1 rule-based fallback) ensuring intelligence generation even under complete API quota exhaustion. Removed dead model endpoints (`stepfun`, `mistral-small-3.1`, `xiaomi/mimo-v2-pro`) that were wasting API calls.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Efficiency:** Reduced LLM API calls by **95%** using local-first extraction and caching. Optimised the background scheduler from 15-minute to 2-hour intervals to sustainably operate within free-tier API budgets.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Proactive Intelligence Engine:** Engineered a 2-hour autonomous loop that generates role-specific situational intelligence (Citizen vs. Expert) and actively dispatches HTML-formatted email briefings to all verified users using a multithreaded delivery system.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Account Security Hardening:** Implemented full-scale email validation and secure password recovery mechanisms to guarantee data integrity and protect user communication channels.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Production-Grade Authentication:** Optimized the authentication UI with a streamlined, decoupled `st.session_state` button navigation structure for superior and robust user onboarding.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **UI Stability &amp; Frontend Hardening:** Eliminated persistent WebGL initialization crashes and strict Pandas 2.2.0 `GroupBy` runtime errors on Streamlit Cloud. Migrated spatial analytics from Plotly Mapbox to **Folium (Leaflet.js)** for highly robust, DOM-native interactive mapping. Fixed critical onboarding UI state-resetting bugs by replacing volatile `st.tabs` and `st.form` wrappers with explicit, decoupled `st.session_state` button navigation. Fixed critical mobile responsive "white screen" rendering bugs by properly positioning the configuration file (`.streamlit/config.toml`) at the repository root and overriding deep Streamlit CSS containers to force a seamless, cross-device Dark Mode aesthetic.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Security Hardening:** Replaced the vulnerable `passlib` password hashing library with native `bcrypt` to resolve the 72-byte wrap detection crash. Implemented server-side error logging with clean user-facing error messages.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Hyper-Personalization:** Connected browser-native HTML5 `navigator.geolocation` APIs with OpenStreetMap reverse geocoding to automatically center heatmaps and tailor instant epidemiological advisories based on the user's precise Local Government Area.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   **Information Warfare &amp; Stealth Data Acquisition:** Successfully defeated complex Cloudflare and WAF (Web Application Firewall) blocks on government portals (NCDC, FMoH, The Guardian). By utilizing native Google Chrome TLS fingerprint impersonation via the **Scrapling** module (`Fetcher(stealthy_headers=True)`), ADIPHAS consistently bypasses 403 Forbidden constraints, allowing uninterrupted surveillance. Validated and patched internal parser argument incompatibilities to ensure robust 24/7 scraping stability.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>---</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 6.1 Current System Limitations</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Geolocation Resolution Limits:** The current HTML5 reverse geocoding via OpenStreetMap relies on the accuracy of the user's device. Devices lacking GPS hardware (like some desktops) fall back to ISP-level IP coordinates, which may lack the specific Local Government Area (LGA) granularity required for hyper-local intelligence.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **LLM Quota Constraints:** The batch intelligence engine now utilizes a resilient chunking strategy (15 articles per pass) to process high volumes without hitting LLM output truncation limits. While highly efficient, this burst computation safely navigates limits utilizing Exponential Backoff and a self-healing "unclosed-JSON" recovery algorithm. Sustained anomalies can still occasionally exhaust free-tier Gemini API caps, triggering the fallback systems.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Render Free Tier Constraints:** The Render free tier spins down after 15 minutes of inactivity, requiring an external keep-alive cron job. Cold starts take 30-60 seconds, during which the first user request may timeout.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>- **Gemini Embedding Regional Restrictions:** The Gemini Embedding API returns `FAILED_PRECONDITION: User location is not supported` from certain server regions. The system auto-falls back to OpenRouter's `nvidia/llama-nemotron-embed-vl-1b-v2:free` for vector embeddings.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>### 6.2 Scalability and Future Work</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>1. **Google OAuth 2.0 Integration:** Future iterations will natively support Google Single Sign-On (SSO) using an OAuth 2.0 Implicit Redirect Flow, reducing friction during the citizen onboarding process.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>2. **Two-Way WhatsApp Integration:** Transitioning from the current one-way Twilio SMS alerting to a full two-way WhatsApp Business API. This would allow citizens to conversationally report symptoms into the system, crowdsourcing intelligence in real-time.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>3. **Federated Learning on Edge:** Implementing a feedback loop on the Expert Dashboard where experts can correct mislabeled diseases. These corrections would be used to autonomously fine-tune the local spaCy NER algorithms without exposing raw patient data.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>4. **Meteorological Data Fusion:** Integrating real-time climatic and satellite data (e.g., abnormal rainfall/flooding metrics) into the Dempster-Shafer fusion algorithms to predict water-borne outbreaks like Cholera *before* the first clinical case is ever reported.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>5. **Decentralized Node Architecture:** Refactoring the monolithic FastApi NLP engine into distributed serverless edge-nodes, allowing ADIPHAS to scale horizontally from a State-level command center into a complete National Digital Health Grid.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:jc w:val="both"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>---</w:t></w:r></w:p><w:p w14:paraId="76598F15" w14:textId="77777777" w:rsidR="00373682" w:rsidRDefault="003661A0">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="1F3864"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>REFERENCES</w:t>
+      </w:r>
+    </w:p>
+    <w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   Brownstein, J. S., et al. (2009). Digital Disease Detection. *New England Journal of Medicine*.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. *NeurIPS*.</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:line="360" w:lineRule="auto" w:after="200"/><w:ind w:firstLine="720"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/></w:rPr><w:t>-   World Health Organisation. (2014). Early Detection and Event-Based Surveillance. *WHO Press*.</w:t></w:r></w:p><w:sectPr w:rsidR="00373682">
+      <w:headerReference w:type="default" r:id="rId15"/>
+      <w:footerReference w:type="default" r:id="rId16"/>
+      <w:pgSz w:w="12240" w:h="15840"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1800" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="720"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
